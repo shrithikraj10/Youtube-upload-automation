@@ -9,7 +9,7 @@ options.add_experimental_option('excludeSwitches', ['enable-logging'])
 # options.add_argument("--no-sandbox")
 # options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--log-level=3")
-options.add_argument("user-data-dir=C:\\Users\\shrithik\\AppData\\Local\\Google\\Chrome\\User Data\\")
+options.add_argument("user-data-dir=C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\User Data\\")
 options.binary_location = "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
 
 print("\033[1;31;40m IMPORTANT: Put one or more videos in the *videos* folder in the bot directory. Please make sure to name the video files like this --> Ex: vid1.mp4 vid2.mp4 vid3.mp4 etc..")
